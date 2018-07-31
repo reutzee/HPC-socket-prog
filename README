@@ -1,1 +1,2 @@
 # HPC-socket-prog
+measure point-to-point (unidirectional) throughput, by writing a C/C++ benchmark application on top of TCP sockets 
